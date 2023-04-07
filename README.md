@@ -1,5 +1,7 @@
 # Run Completed Code
 
+ICP backend with javascript frontend (Motoko)
+
 1. Make sure dfx is running
 
 ```
